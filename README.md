@@ -1,1 +1,1 @@
-# rubysamle
+# rubysample
